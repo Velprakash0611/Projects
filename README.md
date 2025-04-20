@@ -9,7 +9,6 @@ Welcome to the Projects repository! This collection showcases various data analy
 - [Online Sales Analysis](#online-sales-analysis)
 - [Power BI Projects](#power-bi-projects)
 - [Python Projects](#python-projects)
-- [WhatsApp Chat Analyzer](#whatsapp-chat-analyzer)
 - [Blockchain Project](#blockchain-project)
 
 ## Covid-19 Vaccine Analysis
@@ -44,11 +43,6 @@ Various data analysis and automation projects implemented using Python. Each pro
 
 **Folder:** `Python Projects`
 
-## WhatsApp Chat Analyzer
-
-A Python-based project that analyzes WhatsApp chat exports to extract statistics such as message frequency, most active participants, and common words. The analysis is presented using visualizations for better understanding.
-
-**Folder:** `WhatsApp Chat Analyzer`
 
 ## Blockchain Project
 
